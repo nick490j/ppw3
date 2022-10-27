@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p, ol, li{
+font-family: 'IBM Plex Mono', monospace;
+color: white;
+}
+h1,h2,h3, a {
+font-family: 'Koulen', regular;
+color: white;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+h3
+{
+    font-size: 25px;
+}
+
+p
+{
+    font-size: 15px;
+}
+
+ a {
+    font-family: 'Koulen', regular;
+    color: orange;
+    }
+
+
